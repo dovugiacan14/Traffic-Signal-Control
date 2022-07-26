@@ -1,0 +1,4 @@
+ray
+gym==0.21.0
+supersuit==3.3.3
+pettingzoo==1.15.0
