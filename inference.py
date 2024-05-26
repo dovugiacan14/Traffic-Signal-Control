@@ -96,4 +96,4 @@ if __name__ == '__main__':
             # sum up reward for all agents
             episode_reward += sum(reward.values())
             action.clear()
-        os.rename('ahihi/ahihi.csv_conn0_run1.csv', f'infer/{i}.csv')
+        os.rename('result/result.csv_conn0_run1.csv', f'infer/{i}.csv')
